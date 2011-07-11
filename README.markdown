@@ -15,6 +15,8 @@ Using [Paul Irish's HTML IE if statements](http://paulirish.com/2008/conditional
 .element{ background: rgba(255,255,255,0.9); }
 .ie .element{ background: url('rgba.php?r=255&g=255&b=255&a=10'); }
 
+Remember that IE doesn't support transparent PNG files so you will need a [Javascript fix for that](http://duckduckgo.com/?q=png+fix+ie6&u=WolfieZero).
+
 
 Neil Sweeney
 - [WolfieZero.com](http://wolfiezero.com/)
