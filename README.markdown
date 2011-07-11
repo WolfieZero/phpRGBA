@@ -17,6 +17,7 @@ Using [Paul Irish's HTML IE if statements](http://paulirish.com/2008/conditional
 
 Remember that IE doesn't support transparent PNG files so you will need a [Javascript fix for that](http://duckduckgo.com/?q=png+fix+ie6&u=WolfieZero).
 
+---
 
 Neil Sweeney
 - [WolfieZero.com](http://wolfiezero.com/)
